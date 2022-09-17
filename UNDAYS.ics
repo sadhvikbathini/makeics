@@ -1,0 +1,1770 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+METHOD:PUBLISH
+X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+ 
+BEGIN:VEVENT
+SUMMARY:World Braille Day (A/RES/73/161)
+DESCRIPTION:World Braille Day (A/RES/73/161) Click: http://undocs.org/en/A/RES/73/161
+URL:http://undocs.org/en/A/RES/73/161
+DTSTART;VALUE=DATE:20220104 
+DTEND;VALUE=DATE:20220105
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:International Day of Education (A/RES/73/25)
+DESCRIPTION:International Day of Education (A/RES/73/25) Click: http://undocs.org/en/A/RES/73/25
+URL:http://undocs.org/en/A/RES/73/25
+DTSTART;VALUE=DATE:20220124 
+DTEND;VALUE=DATE:20220125
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:International Day of Commemoration in Memory of the Victims of the Holocaust (A/RES/60/7)
+DESCRIPTION:International Day of Commemoration in Memory of the Victims of the Holocaust (A/RES/60/7) Click: http://undocs.org/en/A/RES/60/7
+URL:http://undocs.org/en/A/RES/60/7
+DTSTART;VALUE=DATE:20220127 
+DTEND;VALUE=DATE:20220128
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:World Interfaith Harmony Week, 1-7 February (A/RES/65/5)
+DESCRIPTION:World Interfaith Harmony Week, 1-7 February (A/RES/65/5) Click: http://undocs.org/en/A/RES/65/5
+URL:http://undocs.org/en/A/RES/65/5
+DTSTART;VALUE=DATE:20220201 
+DTEND;VALUE=DATE:20220202
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:World Wetlands Day (A/RES/75/317)
+DESCRIPTION:World Wetlands Day (A/RES/75/317) Click: http://undocs.org/en/A/RES/75/317
+URL:http://undocs.org/en/A/RES/75/317
+DTSTART;VALUE=DATE:20220202 
+DTEND;VALUE=DATE:20220203
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:International Day of Human Fraternity (A/RES/75/200)
+DESCRIPTION:International Day of Human Fraternity (A/RES/75/200) Click: http://undocs.org/en/A/RES/75/200
+URL:http://undocs.org/en/A/RES/75/200
+DTSTART;VALUE=DATE:20220204 
+DTEND;VALUE=DATE:20220205
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:International Day of Zero Tolerance to Female Genital Mutilation (A/RES/67/146)
+DESCRIPTION:International Day of Zero Tolerance to Female Genital Mutilation (A/RES/67/146) Click: http://undocs.org/en/A/RES/67/146
+URL:http://undocs.org/en/A/RES/67/146
+DTSTART;VALUE=DATE:20220206 
+DTEND;VALUE=DATE:20220207
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:World Pulses Day (A/RES/73/251)
+DESCRIPTION:World Pulses Day (A/RES/73/251) Click: http://undocs.org/en/A/RES/73/251
+URL:http://undocs.org/en/A/RES/73/251
+DTSTART;VALUE=DATE:20220210 
+DTEND;VALUE=DATE:20220211
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:International Day of Women and Girls in Science (A/RES/70/212)
+DESCRIPTION:International Day of Women and Girls in Science (A/RES/70/212) Click: http://undocs.org/en/A/RES/70/212
+URL:http://undocs.org/en/A/RES/70/212
+DTSTART;VALUE=DATE:20220211 
+DTEND;VALUE=DATE:20220212
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:World Radio Day (A/RES/67/124)
+DESCRIPTION:World Radio Day (A/RES/67/124) Click: http://undocs.org/en/A/RES/67/124
+URL:http://undocs.org/en/A/RES/67/124
+DTSTART;VALUE=DATE:20220213 
+DTEND;VALUE=DATE:20220214
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:World Day of Social Justice (A/RES/62/10)
+DESCRIPTION:World Day of Social Justice (A/RES/62/10) Click: http://undocs.org/en/A/RES/62/10
+URL:http://undocs.org/en/A/RES/62/10
+DTSTART;VALUE=DATE:20220220 
+DTEND;VALUE=DATE:20220221
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:International Mother Language Day (A/RES/56/262)
+DESCRIPTION:International Mother Language Day (A/RES/56/262) Click: http://undocs.org/en/A/RES/56/262
+URL:http://undocs.org/en/A/RES/56/262
+DTSTART;VALUE=DATE:20220221 
+DTEND;VALUE=DATE:20220222
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:World Seagrass Day (A/RES/76/265)
+DESCRIPTION:World Seagrass Day (A/RES/76/265) Click: http://undocs.org/en/A/RES/76/265
+URL:http://undocs.org/en/A/RES/76/265
+DTSTART;VALUE=DATE:20220301 
+DTEND;VALUE=DATE:20220302
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:Journée mondiale des herbiers marins (A/RES/76/265)
+DESCRIPTION:Journée mondiale des herbiers marins (A/RES/76/265) Click: http://undocs.org/en/A/RES/76/265
+URL:http://undocs.org/en/A/RES/76/265
+DTSTART;VALUE=DATE:20220301 
+DTEND;VALUE=DATE:20220302
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:Zero Discrimination Day [UNAIDS]
+DESCRIPTION:Zero Discrimination Day [UNAIDS] Click: http://undocs.org/en/Zero Discrimination Day [UNAIDS]
+URL:http://undocs.org/en/Zero Discrimination Day [UNAIDS]
+DTSTART;VALUE=DATE:20220301 
+DTEND;VALUE=DATE:20220302
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:World Wildlife Day (A/RES/68/205)
+DESCRIPTION:World Wildlife Day (A/RES/68/205) Click: http://undocs.org/en/A/RES/68/205
+URL:http://undocs.org/en/A/RES/68/205
+DTSTART;VALUE=DATE:20220303 
+DTEND;VALUE=DATE:20220304
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:International Women's Day
+DESCRIPTION:International Women's Day Click: http://undocs.org/en/International Women's Day
+URL:http://undocs.org/en/International Women's Day
+DTSTART;VALUE=DATE:20220308 
+DTEND;VALUE=DATE:20220309
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:International Day of Women Judges (A/RES/75/274)
+DESCRIPTION:International Day of Women Judges (A/RES/75/274) Click: http://undocs.org/en/A/RES/75/274
+URL:http://undocs.org/en/A/RES/75/274
+DTSTART;VALUE=DATE:20220310 
+DTEND;VALUE=DATE:20220311
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:International Day to Combat Islamophobia (A/RES/76/254)
+DESCRIPTION:International Day to Combat Islamophobia (A/RES/76/254) Click: http://undocs.org/en/A/RES/76/254
+URL:http://undocs.org/en/A/RES/76/254
+DTSTART;VALUE=DATE:20220315 
+DTEND;VALUE=DATE:20220316
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:International Day of Happiness (A/RES/66/281)
+DESCRIPTION:International Day of Happiness (A/RES/66/281) Click: http://undocs.org/en/A/RES/66/281
+URL:http://undocs.org/en/A/RES/66/281
+DTSTART;VALUE=DATE:20220320 
+DTEND;VALUE=DATE:20220321
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:French Language Day
+DESCRIPTION:French Language Day Click: http://undocs.org/en/French Language Day
+URL:http://undocs.org/en/French Language Day
+DTSTART;VALUE=DATE:20220320 
+DTEND;VALUE=DATE:20220321
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:International Day for the Elimination of Racial Discrimination (A/RES/2142 (XXI))
+DESCRIPTION:International Day for the Elimination of Racial Discrimination (A/RES/2142 (XXI)) Click: http://undocs.org/en/A/RES/2142 
+URL:http://undocs.org/en/A/RES/2142 
+DTSTART;VALUE=DATE:20220321 
+DTEND;VALUE=DATE:20220322
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:World Poetry Day [UNESCO] (UNESCO 30 C/Resolution 29)
+DESCRIPTION:World Poetry Day [UNESCO] (UNESCO 30 C/Resolution 29) Click: http://undocs.org/en/UNESCO 30 C/Resolution 29
+URL:http://undocs.org/en/UNESCO 30 C/Resolution 29
+DTSTART;VALUE=DATE:20220321 
+DTEND;VALUE=DATE:20220322
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:International Day of Nowruz (A/RES/64/253)
+DESCRIPTION:International Day of Nowruz (A/RES/64/253) Click: http://undocs.org/en/A/RES/64/253
+URL:http://undocs.org/en/A/RES/64/253
+DTSTART;VALUE=DATE:20220321 
+DTEND;VALUE=DATE:20220322
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:World Down Syndrome Day (A/RES/66/149)
+DESCRIPTION:World Down Syndrome Day (A/RES/66/149) Click: http://undocs.org/en/A/RES/66/149
+URL:http://undocs.org/en/A/RES/66/149
+DTSTART;VALUE=DATE:20220321 
+DTEND;VALUE=DATE:20220322
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:International Day of Forests (A/RES/67/200)
+DESCRIPTION:International Day of Forests (A/RES/67/200) Click: http://undocs.org/en/A/RES/67/200
+URL:http://undocs.org/en/A/RES/67/200
+DTSTART;VALUE=DATE:20220321 
+DTEND;VALUE=DATE:20220322
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:World Water Day (A/RES/47/193)
+DESCRIPTION:World Water Day (A/RES/47/193) Click: http://undocs.org/en/A/RES/47/193
+URL:http://undocs.org/en/A/RES/47/193
+DTSTART;VALUE=DATE:20220322 
+DTEND;VALUE=DATE:20220323
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:World Meteorological Day (WMO/EC-XII/Res.6)
+DESCRIPTION:World Meteorological Day (WMO/EC-XII/Res.6) Click: http://undocs.org/en/WMO/EC-XII/Res.6
+URL:http://undocs.org/en/WMO/EC-XII/Res.6
+DTSTART;VALUE=DATE:20220323 
+DTEND;VALUE=DATE:20220324
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:World Tuberculosis Day
+DESCRIPTION:World Tuberculosis Day Click: http://undocs.org/en/World Tuberculosis Day
+URL:http://undocs.org/en/World Tuberculosis Day
+DTSTART;VALUE=DATE:20220324 
+DTEND;VALUE=DATE:20220325
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:International Day for the Right to the Truth concerning Gross Human Rights Violations and for the Dignity of Victims (A/RES/65/196)
+DESCRIPTION:International Day for the Right to the Truth concerning Gross Human Rights Violations and for the Dignity of Victims (A/RES/65/196) Click: http://undocs.org/en/A/RES/65/196
+URL:http://undocs.org/en/A/RES/65/196
+DTSTART;VALUE=DATE:20220324 
+DTEND;VALUE=DATE:20220325
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:International Day of Remembrance of the Victims of Slavery and the Transatlantic Slave Trade (A/RES/62/122)
+DESCRIPTION:International Day of Remembrance of the Victims of Slavery and the Transatlantic Slave Trade (A/RES/62/122) Click: http://undocs.org/en/A/RES/62/122
+URL:http://undocs.org/en/A/RES/62/122
+DTSTART;VALUE=DATE:20220325 
+DTEND;VALUE=DATE:20220326
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:International Day of Solidarity with Detained and Missing Staff Members (A/RES/49/59)
+DESCRIPTION:International Day of Solidarity with Detained and Missing Staff Members (A/RES/49/59) Click: http://undocs.org/en/A/RES/49/59
+URL:http://undocs.org/en/A/RES/49/59
+DTSTART;VALUE=DATE:20220325 
+DTEND;VALUE=DATE:20220326
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:World Autism Awareness Day (A/RES/62/139)
+DESCRIPTION:World Autism Awareness Day (A/RES/62/139) Click: http://undocs.org/en/A/RES/62/139
+URL:http://undocs.org/en/A/RES/62/139
+DTSTART;VALUE=DATE:20220402 
+DTEND;VALUE=DATE:20220403
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:International Day for Mine Awareness and Assistance in Mine Action (A/RES/60/97)
+DESCRIPTION:International Day for Mine Awareness and Assistance in Mine Action (A/RES/60/97) Click: http://undocs.org/en/A/RES/60/97
+URL:http://undocs.org/en/A/RES/60/97
+DTSTART;VALUE=DATE:20220404 
+DTEND;VALUE=DATE:20220405
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:International Day of Conscience (A/RES/73/329)
+DESCRIPTION:International Day of Conscience (A/RES/73/329) Click: http://undocs.org/en/A/RES/73/329
+URL:http://undocs.org/en/A/RES/73/329
+DTSTART;VALUE=DATE:20220405 
+DTEND;VALUE=DATE:20220406
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:International Day of Sport for Development and Peace (A/RES/67/296)
+DESCRIPTION:International Day of Sport for Development and Peace (A/RES/67/296) Click: http://undocs.org/en/A/RES/67/296
+URL:http://undocs.org/en/A/RES/67/296
+DTSTART;VALUE=DATE:20220406 
+DTEND;VALUE=DATE:20220407
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:International Day of Reflection on the 1994 Genocide against the Tutsi in Rwanda (A/RES/58/234)
+DESCRIPTION:International Day of Reflection on the 1994 Genocide against the Tutsi in Rwanda (A/RES/58/234) Click: http://undocs.org/en/A/RES/58/234
+URL:http://undocs.org/en/A/RES/58/234
+DTSTART;VALUE=DATE:20220407 
+DTEND;VALUE=DATE:20220408
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:World Health Day (WHA/A.2/Res.35)
+DESCRIPTION:World Health Day (WHA/A.2/Res.35) Click: http://undocs.org/en/WHA/A.2/Res.35
+URL:http://undocs.org/en/WHA/A.2/Res.35
+DTSTART;VALUE=DATE:20220407 
+DTEND;VALUE=DATE:20220408
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:International Day of Human Space Flight (A/RES/65/271)
+DESCRIPTION:International Day of Human Space Flight (A/RES/65/271) Click: http://undocs.org/en/A/RES/65/271
+URL:http://undocs.org/en/A/RES/65/271
+DTSTART;VALUE=DATE:20220412 
+DTEND;VALUE=DATE:20220413
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:World Chagas Disease Day [WHO]
+DESCRIPTION:World Chagas Disease Day [WHO] Click: http://undocs.org/en/World Chagas Disease Day [WHO]
+URL:http://undocs.org/en/World Chagas Disease Day [WHO]
+DTSTART;VALUE=DATE:20220414 
+DTEND;VALUE=DATE:20220415
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:Chinese Language Day
+DESCRIPTION:Chinese Language Day Click: http://undocs.org/en/Chinese Language Day
+URL:http://undocs.org/en/Chinese Language Day
+DTSTART;VALUE=DATE:20220420 
+DTEND;VALUE=DATE:20220421
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:World Creativity and Innovation Day (A/RES/71/284)
+DESCRIPTION:World Creativity and Innovation Day (A/RES/71/284) Click: http://undocs.org/en/A/RES/71/284
+URL:http://undocs.org/en/A/RES/71/284
+DTSTART;VALUE=DATE:20220421 
+DTEND;VALUE=DATE:20220422
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:International Mother Earth Day (A/RES/63/278)
+DESCRIPTION:International Mother Earth Day (A/RES/63/278) Click: http://undocs.org/en/A/RES/63/278
+URL:http://undocs.org/en/A/RES/63/278
+DTSTART;VALUE=DATE:20220422 
+DTEND;VALUE=DATE:20220423
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:World Book and Copyright Day [UNESCO] (UNESCO 28 C/Resolution 3.18)
+DESCRIPTION:World Book and Copyright Day [UNESCO] (UNESCO 28 C/Resolution 3.18) Click: http://undocs.org/en/UNESCO 28 C/Resolution 3.18
+URL:http://undocs.org/en/UNESCO 28 C/Resolution 3.18
+DTSTART;VALUE=DATE:20220423 
+DTEND;VALUE=DATE:20220424
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:English Language Day
+DESCRIPTION:English Language Day Click: http://undocs.org/en/English Language Day
+URL:http://undocs.org/en/English Language Day
+DTSTART;VALUE=DATE:20220423 
+DTEND;VALUE=DATE:20220424
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:Spanish Language Day
+DESCRIPTION:Spanish Language Day Click: http://undocs.org/en/Spanish Language Day
+URL:http://undocs.org/en/Spanish Language Day
+DTSTART;VALUE=DATE:20220423 
+DTEND;VALUE=DATE:20220424
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:World Immunization Week, 24-30 April [WHO]
+DESCRIPTION:World Immunization Week, 24-30 April [WHO] Click: http://undocs.org/en/World Immunization Week, 24-30 April [WHO]
+URL:http://undocs.org/en/World Immunization Week, 24-30 April [WHO]
+DTSTART;VALUE=DATE:20220424 
+DTEND;VALUE=DATE:20220425
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:International Day of Multilateralism and Diplomacy for Peace (A/RES/73/127)
+DESCRIPTION:International Day of Multilateralism and Diplomacy for Peace (A/RES/73/127) Click: http://undocs.org/en/A/RES/73/127
+URL:http://undocs.org/en/A/RES/73/127
+DTSTART;VALUE=DATE:20220424 
+DTEND;VALUE=DATE:20220425
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:World Malaria Day
+DESCRIPTION:World Malaria Day Click: http://undocs.org/en/World Malaria Day
+URL:http://undocs.org/en/World Malaria Day
+DTSTART;VALUE=DATE:20220425 
+DTEND;VALUE=DATE:20220426
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:International Delegate’s Day (A/RES/73/286)
+DESCRIPTION:International Delegate’s Day (A/RES/73/286) Click: http://undocs.org/en/A/RES/73/286
+URL:http://undocs.org/en/A/RES/73/286
+DTSTART;VALUE=DATE:20220425 
+DTEND;VALUE=DATE:20220426
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:International Chernobyl Disaster Remembrance Day (A/RES/71/125)
+DESCRIPTION:International Chernobyl Disaster Remembrance Day (A/RES/71/125) Click: http://undocs.org/en/A/RES/71/125
+URL:http://undocs.org/en/A/RES/71/125
+DTSTART;VALUE=DATE:20220426 
+DTEND;VALUE=DATE:20220427
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:World Intellectual Property Day
+DESCRIPTION:World Intellectual Property Day Click: http://undocs.org/en/World Intellectual Property Day
+URL:http://undocs.org/en/World Intellectual Property Day
+DTSTART;VALUE=DATE:20220426 
+DTEND;VALUE=DATE:20220427
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:International Girls in ICT Day [ITU]
+DESCRIPTION:International Girls in ICT Day [ITU] Click: http://undocs.org/en/International Girls in ICT Day [ITU]
+URL:http://undocs.org/en/International Girls in ICT Day [ITU]
+DTSTART;VALUE=DATE:20220428 
+DTEND;VALUE=DATE:20220429
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:World Day for Safety and Health at Work
+DESCRIPTION:World Day for Safety and Health at Work Click: http://undocs.org/en/World Day for Safety and Health at Work
+URL:http://undocs.org/en/World Day for Safety and Health at Work
+DTSTART;VALUE=DATE:20220428 
+DTEND;VALUE=DATE:20220429
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:International Jazz Day (UNESCO 36 C/Resolution 39)
+DESCRIPTION:International Jazz Day (UNESCO 36 C/Resolution 39) Click: http://undocs.org/en/UNESCO 36 C/Resolution 39
+URL:http://undocs.org/en/UNESCO 36 C/Resolution 39
+DTSTART;VALUE=DATE:20220430 
+DTEND;VALUE=DATE:20220431
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:World Tuna Day (A/RES/71/124)
+DESCRIPTION:World Tuna Day (A/RES/71/124) Click: http://undocs.org/en/A/RES/71/124
+URL:http://undocs.org/en/A/RES/71/124
+DTSTART;VALUE=DATE:20220502 
+DTEND;VALUE=DATE:20220503
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:World Press Freedom Day (UNESCO 26 C/Resolution 4.3)
+DESCRIPTION:World Press Freedom Day (UNESCO 26 C/Resolution 4.3) Click: http://undocs.org/en/UNESCO 26 C/Resolution 4.3
+URL:http://undocs.org/en/UNESCO 26 C/Resolution 4.3
+DTSTART;VALUE=DATE:20220503 
+DTEND;VALUE=DATE:20220504
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:World Portuguese Language Day [UNESCO]
+DESCRIPTION:World Portuguese Language Day [UNESCO] Click: http://undocs.org/en/World Portuguese Language Day [UNESCO]
+URL:http://undocs.org/en/World Portuguese Language Day [UNESCO]
+DTSTART;VALUE=DATE:20220505 
+DTEND;VALUE=DATE:20220506
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:Time of Remembrance and Reconciliation for Those Who Lost Their Lives During the Second World War (A/RES/59/26)
+DESCRIPTION:Time of Remembrance and Reconciliation for Those Who Lost Their Lives During the Second World War (A/RES/59/26) Click: http://undocs.org/en/A/RES/59/26
+URL:http://undocs.org/en/A/RES/59/26
+DTSTART;VALUE=DATE:20220508 
+DTEND;VALUE=DATE:20220509
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:International Day of Argania (A/RES/75/262)
+DESCRIPTION:International Day of Argania (A/RES/75/262) Click: http://undocs.org/en/A/RES/75/262
+URL:http://undocs.org/en/A/RES/75/262
+DTSTART;VALUE=DATE:20220510 
+DTEND;VALUE=DATE:20220511
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:International Day of Plant Health (A/RES/76/256)
+DESCRIPTION:International Day of Plant Health (A/RES/76/256) Click: http://undocs.org/en/A/RES/76/256
+URL:http://undocs.org/en/A/RES/76/256
+DTSTART;VALUE=DATE:20220512 
+DTEND;VALUE=DATE:20220513
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:World Migratory Bird Day
+DESCRIPTION:World Migratory Bird Day Click: http://undocs.org/en/World Migratory Bird Day
+URL:http://undocs.org/en/World Migratory Bird Day
+DTSTART;VALUE=DATE:20220514 
+DTEND;VALUE=DATE:20220515
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:International Day of Families (A/RES/47/237)
+DESCRIPTION:International Day of Families (A/RES/47/237) Click: http://undocs.org/en/A/RES/47/237
+URL:http://undocs.org/en/A/RES/47/237
+DTSTART;VALUE=DATE:20220515 
+DTEND;VALUE=DATE:20220516
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:International Day of Light (UNESCO 39 C/Resolution 16)
+DESCRIPTION:International Day of Light (UNESCO 39 C/Resolution 16) Click: http://undocs.org/en/UNESCO 39 C/Resolution 16
+URL:http://undocs.org/en/UNESCO 39 C/Resolution 16
+DTSTART;VALUE=DATE:20220516 
+DTEND;VALUE=DATE:20220517
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:Vesak, the Day of the Full Moon (A/RES/54/115)
+DESCRIPTION:Vesak, the Day of the Full Moon (A/RES/54/115) Click: http://undocs.org/en/A/RES/54/115
+URL:http://undocs.org/en/A/RES/54/115
+DTSTART;VALUE=DATE:20220516 
+DTEND;VALUE=DATE:20220517
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:International Day of Living Together in Peace (A/RES/72/130)
+DESCRIPTION:International Day of Living Together in Peace (A/RES/72/130) Click: http://undocs.org/en/A/RES/72/130
+URL:http://undocs.org/en/A/RES/72/130
+DTSTART;VALUE=DATE:20220516 
+DTEND;VALUE=DATE:20220517
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:World Telecommunication and Information Society Day (A/RES/60/252)
+DESCRIPTION:World Telecommunication and Information Society Day (A/RES/60/252) Click: http://undocs.org/en/A/RES/60/252
+URL:http://undocs.org/en/A/RES/60/252
+DTSTART;VALUE=DATE:20220517 
+DTEND;VALUE=DATE:20220518
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:World Bee Day (A/RES/72/211)
+DESCRIPTION:World Bee Day (A/RES/72/211) Click: http://undocs.org/en/A/RES/72/211
+URL:http://undocs.org/en/A/RES/72/211
+DTSTART;VALUE=DATE:20220520 
+DTEND;VALUE=DATE:20220521
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:International Tea Day (A/RES/74/241)
+DESCRIPTION:International Tea Day (A/RES/74/241) Click: http://undocs.org/en/A/RES/74/241
+URL:http://undocs.org/en/A/RES/74/241
+DTSTART;VALUE=DATE:20220521 
+DTEND;VALUE=DATE:20220522
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:World Day for Cultural Diversity for Dialogue and Development (A/RES/57/249)
+DESCRIPTION:World Day for Cultural Diversity for Dialogue and Development (A/RES/57/249) Click: http://undocs.org/en/A/RES/57/249
+URL:http://undocs.org/en/A/RES/57/249
+DTSTART;VALUE=DATE:20220521 
+DTEND;VALUE=DATE:20220522
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:International Day for Biological Diversity (A/RES/55/201)
+DESCRIPTION:International Day for Biological Diversity (A/RES/55/201) Click: http://undocs.org/en/A/RES/55/201
+URL:http://undocs.org/en/A/RES/55/201
+DTSTART;VALUE=DATE:20220522 
+DTEND;VALUE=DATE:20220523
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:International Day to End Obstetric Fistula (A/RES/67/147)
+DESCRIPTION:International Day to End Obstetric Fistula (A/RES/67/147) Click: http://undocs.org/en/A/RES/67/147
+URL:http://undocs.org/en/A/RES/67/147
+DTSTART;VALUE=DATE:20220523 
+DTEND;VALUE=DATE:20220524
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:Week of Solidarity with the Peoples of Non-Self-Governing Territories, 25-31 (A/RES/54/91)
+DESCRIPTION:Week of Solidarity with the Peoples of Non-Self-Governing Territories, 25-31 (A/RES/54/91) Click: http://undocs.org/en/A/RES/54/91
+URL:http://undocs.org/en/A/RES/54/91
+DTSTART;VALUE=DATE:20220525 
+DTEND;VALUE=DATE:20220526
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:International Day of UN Peacekeepers (A/RES/57/129)
+DESCRIPTION:International Day of UN Peacekeepers (A/RES/57/129) Click: http://undocs.org/en/A/RES/57/129
+URL:http://undocs.org/en/A/RES/57/129
+DTSTART;VALUE=DATE:20220529 
+DTEND;VALUE=DATE:20220530
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:World No-Tobacco Day (WHA Resolution 42.19)
+DESCRIPTION:World No-Tobacco Day (WHA Resolution 42.19) Click: http://undocs.org/en/WHA Resolution 42.19
+URL:http://undocs.org/en/WHA Resolution 42.19
+DTSTART;VALUE=DATE:20220531 
+DTEND;VALUE=DATE:20220532
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:Global Day of Parents (A/RES/66/292)
+DESCRIPTION:Global Day of Parents (A/RES/66/292) Click: http://undocs.org/en/A/RES/66/292
+URL:http://undocs.org/en/A/RES/66/292
+DTSTART;VALUE=DATE:20220601 
+DTEND;VALUE=DATE:20220602
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:World Bicycle Day (A/RES/72/272)
+DESCRIPTION:World Bicycle Day (A/RES/72/272) Click: http://undocs.org/en/A/RES/72/272
+URL:http://undocs.org/en/A/RES/72/272
+DTSTART;VALUE=DATE:20220603 
+DTEND;VALUE=DATE:20220604
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:International Day of Innocent Children Victims of Aggression (A/RES/ES-7/8)
+DESCRIPTION:International Day of Innocent Children Victims of Aggression (A/RES/ES-7/8) Click: http://undocs.org/en/A/RES/ES-7/8
+URL:http://undocs.org/en/A/RES/ES-7/8
+DTSTART;VALUE=DATE:20220604 
+DTEND;VALUE=DATE:20220605
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:World Environment Day (A/RES/2994 (XXVII))
+DESCRIPTION:World Environment Day (A/RES/2994 (XXVII)) Click: http://undocs.org/en/A/RES/2994 
+URL:http://undocs.org/en/A/RES/2994 
+DTSTART;VALUE=DATE:20220605 
+DTEND;VALUE=DATE:20220606
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:International Day for the Fight against Illegal, Unreported and Unregulated Fishing (A/RES/72/72)
+DESCRIPTION:International Day for the Fight against Illegal, Unreported and Unregulated Fishing (A/RES/72/72) Click: http://undocs.org/en/A/RES/72/72
+URL:http://undocs.org/en/A/RES/72/72
+DTSTART;VALUE=DATE:20220605 
+DTEND;VALUE=DATE:20220606
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:Russian Language Day
+DESCRIPTION:Russian Language Day Click: http://undocs.org/en/Russian Language Day
+URL:http://undocs.org/en/Russian Language Day
+DTSTART;VALUE=DATE:20220606 
+DTEND;VALUE=DATE:20220607
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:World Food Safety Day (A/RES/73/250)
+DESCRIPTION:World Food Safety Day (A/RES/73/250) Click: http://undocs.org/en/A/RES/73/250
+URL:http://undocs.org/en/A/RES/73/250
+DTSTART;VALUE=DATE:20220607 
+DTEND;VALUE=DATE:20220608
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:World Oceans Day (A/RES/63/111)
+DESCRIPTION:World Oceans Day (A/RES/63/111) Click: http://undocs.org/en/A/RES/63/111
+URL:http://undocs.org/en/A/RES/63/111
+DTSTART;VALUE=DATE:20220608 
+DTEND;VALUE=DATE:20220609
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:World Day Against Child Labour
+DESCRIPTION:World Day Against Child Labour Click: http://undocs.org/en/World Day Against Child Labour
+URL:http://undocs.org/en/World Day Against Child Labour
+DTSTART;VALUE=DATE:20220612 
+DTEND;VALUE=DATE:20220613
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:International Albinism Awareness Day (A/RES/69/170)
+DESCRIPTION:International Albinism Awareness Day (A/RES/69/170) Click: http://undocs.org/en/A/RES/69/170
+URL:http://undocs.org/en/A/RES/69/170
+DTSTART;VALUE=DATE:20220613 
+DTEND;VALUE=DATE:20220614
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:World Blood Donor Day (WHA Resolution 58.13)
+DESCRIPTION:World Blood Donor Day (WHA Resolution 58.13) Click: http://undocs.org/en/WHA Resolution 58.13
+URL:http://undocs.org/en/WHA Resolution 58.13
+DTSTART;VALUE=DATE:20220614 
+DTEND;VALUE=DATE:20220615
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:World Elder Abuse Awareness Day (A/RES/66/127)
+DESCRIPTION:World Elder Abuse Awareness Day (A/RES/66/127) Click: http://undocs.org/en/A/RES/66/127
+URL:http://undocs.org/en/A/RES/66/127
+DTSTART;VALUE=DATE:20220615 
+DTEND;VALUE=DATE:20220616
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:International Day of Family Remittances (A/RES/72/281)
+DESCRIPTION:International Day of Family Remittances (A/RES/72/281) Click: http://undocs.org/en/A/RES/72/281
+URL:http://undocs.org/en/A/RES/72/281
+DTSTART;VALUE=DATE:20220616 
+DTEND;VALUE=DATE:20220617
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:World Day to Combat Desertification and Drought (A/RES/49/115)
+DESCRIPTION:World Day to Combat Desertification and Drought (A/RES/49/115) Click: http://undocs.org/en/A/RES/49/115
+URL:http://undocs.org/en/A/RES/49/115
+DTSTART;VALUE=DATE:20220617 
+DTEND;VALUE=DATE:20220618
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:International Day for Countering Hate Speech (A/RES/75/309)
+DESCRIPTION:International Day for Countering Hate Speech (A/RES/75/309) Click: http://undocs.org/en/A/RES/75/309
+URL:http://undocs.org/en/A/RES/75/309
+DTSTART;VALUE=DATE:20220618 
+DTEND;VALUE=DATE:20220619
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:Sustainable Gastronomy Day (A/RES/71/246)
+DESCRIPTION:Sustainable Gastronomy Day (A/RES/71/246) Click: http://undocs.org/en/A/RES/71/246
+URL:http://undocs.org/en/A/RES/71/246
+DTSTART;VALUE=DATE:20220618 
+DTEND;VALUE=DATE:20220619
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:International Day for the Elimination of Sexual Violence in Conflict (A/RES/69/293)
+DESCRIPTION:International Day for the Elimination of Sexual Violence in Conflict (A/RES/69/293) Click: http://undocs.org/en/A/RES/69/293
+URL:http://undocs.org/en/A/RES/69/293
+DTSTART;VALUE=DATE:20220619 
+DTEND;VALUE=DATE:20220620
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:World Refugee Day (A/RES/55/76)
+DESCRIPTION:World Refugee Day (A/RES/55/76) Click: http://undocs.org/en/A/RES/55/76
+URL:http://undocs.org/en/A/RES/55/76
+DTSTART;VALUE=DATE:20220620 
+DTEND;VALUE=DATE:20220621
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:International Day of Yoga (A/RES/69/131)
+DESCRIPTION:International Day of Yoga (A/RES/69/131) Click: http://undocs.org/en/A/RES/69/131
+URL:http://undocs.org/en/A/RES/69/131
+DTSTART;VALUE=DATE:20220621 
+DTEND;VALUE=DATE:20220622
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:International Day of the Celebration of the Solstice (A/RES/73/300)
+DESCRIPTION:International Day of the Celebration of the Solstice (A/RES/73/300) Click: http://undocs.org/en/A/RES/73/300
+URL:http://undocs.org/en/A/RES/73/300
+DTSTART;VALUE=DATE:20220621 
+DTEND;VALUE=DATE:20220622
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:United Nations Public Service Day (A/RES/57/277)
+DESCRIPTION:United Nations Public Service Day (A/RES/57/277) Click: http://undocs.org/en/A/RES/57/277
+URL:http://undocs.org/en/A/RES/57/277
+DTSTART;VALUE=DATE:20220623 
+DTEND;VALUE=DATE:20220624
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:International Widows' Day (A/RES/65/189)
+DESCRIPTION:International Widows' Day (A/RES/65/189) Click: http://undocs.org/en/A/RES/65/189
+URL:http://undocs.org/en/A/RES/65/189
+DTSTART;VALUE=DATE:20220623 
+DTEND;VALUE=DATE:20220624
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:Day of the Seafarer [IMO] (STCW/CONF.2/DC/4)
+DESCRIPTION:Day of the Seafarer [IMO] (STCW/CONF.2/DC/4) Click: http://undocs.org/en/STCW/CONF.2/DC/4
+URL:http://undocs.org/en/STCW/CONF.2/DC/4
+DTSTART;VALUE=DATE:20220625 
+DTEND;VALUE=DATE:20220626
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:International Day against Drug Abuse and Illicit Trafficking (A/RES/42/112)
+DESCRIPTION:International Day against Drug Abuse and Illicit Trafficking (A/RES/42/112) Click: http://undocs.org/en/A/RES/42/112
+URL:http://undocs.org/en/A/RES/42/112
+DTSTART;VALUE=DATE:20220626 
+DTEND;VALUE=DATE:20220627
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:United Nations International Day in Support of Victims of Torture (A/RES/52/149)
+DESCRIPTION:United Nations International Day in Support of Victims of Torture (A/RES/52/149) Click: http://undocs.org/en/A/RES/52/149
+URL:http://undocs.org/en/A/RES/52/149
+DTSTART;VALUE=DATE:20220626 
+DTEND;VALUE=DATE:20220627
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:Micro-, Small and Medium-sized Enterprises Day (A/RES/71/279)
+DESCRIPTION:Micro-, Small and Medium-sized Enterprises Day (A/RES/71/279) Click: http://undocs.org/en/A/RES/71/279
+URL:http://undocs.org/en/A/RES/71/279
+DTSTART;VALUE=DATE:20220627 
+DTEND;VALUE=DATE:20220628
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:International Day of the Tropics (A/RES/71/279)
+DESCRIPTION:International Day of the Tropics (A/RES/71/279) Click: http://undocs.org/en/A/RES/71/279
+URL:http://undocs.org/en/A/RES/71/279
+DTSTART;VALUE=DATE:20220629 
+DTEND;VALUE=DATE:20220630
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:International Asteroid Day (A/RES/71/90)
+DESCRIPTION:International Asteroid Day (A/RES/71/90) Click: http://undocs.org/en/A/RES/71/90
+URL:http://undocs.org/en/A/RES/71/90
+DTSTART;VALUE=DATE:20220630 
+DTEND;VALUE=DATE:20220631
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:International Day of Parliamentarism (A/RES/72/278)
+DESCRIPTION:International Day of Parliamentarism (A/RES/72/278) Click: http://undocs.org/en/A/RES/72/278
+URL:http://undocs.org/en/A/RES/72/278
+DTSTART;VALUE=DATE:20220630 
+DTEND;VALUE=DATE:20220631
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:International Day of Cooperatives (A/RES/47/90)
+DESCRIPTION:International Day of Cooperatives (A/RES/47/90) Click: http://undocs.org/en/A/RES/47/90
+URL:http://undocs.org/en/A/RES/47/90
+DTSTART;VALUE=DATE:20220703 
+DTEND;VALUE=DATE:20220704
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:World Population Day (A/RES/45/216)
+DESCRIPTION:World Population Day (A/RES/45/216) Click: http://undocs.org/en/A/RES/45/216
+URL:http://undocs.org/en/A/RES/45/216
+DTSTART;VALUE=DATE:20220711 
+DTEND;VALUE=DATE:20220712
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:World Youth Skills Day (A/RES/69/145)
+DESCRIPTION:World Youth Skills Day (A/RES/69/145) Click: http://undocs.org/en/A/RES/69/145
+URL:http://undocs.org/en/A/RES/69/145
+DTSTART;VALUE=DATE:20220715 
+DTEND;VALUE=DATE:20220716
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:Nelson Mandela International Day (A/RES/64/13)
+DESCRIPTION:Nelson Mandela International Day (A/RES/64/13) Click: http://undocs.org/en/A/RES/64/13
+URL:http://undocs.org/en/A/RES/64/13
+DTSTART;VALUE=DATE:20220718 
+DTEND;VALUE=DATE:20220719
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:International Moon Day (A/RES/76/76)
+DESCRIPTION:International Moon Day (A/RES/76/76) Click: http://undocs.org/en/A/RES/76/76
+URL:http://undocs.org/en/A/RES/76/76
+DTSTART;VALUE=DATE:20220720 
+DTEND;VALUE=DATE:20220721
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:World Chess Day (A/RES/74/22)
+DESCRIPTION:World Chess Day (A/RES/74/22) Click: http://undocs.org/en/A/RES/74/22
+URL:http://undocs.org/en/A/RES/74/22
+DTSTART;VALUE=DATE:20220720 
+DTEND;VALUE=DATE:20220721
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:World Drowning Prevention Day (A/RES/75/273)
+DESCRIPTION:World Drowning Prevention Day (A/RES/75/273) Click: http://undocs.org/en/A/RES/75/273
+URL:http://undocs.org/en/A/RES/75/273
+DTSTART;VALUE=DATE:20220725 
+DTEND;VALUE=DATE:20220726
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:World Hepatitis Day [WHO]
+DESCRIPTION:World Hepatitis Day [WHO] Click: http://undocs.org/en/World Hepatitis Day [WHO]
+URL:http://undocs.org/en/World Hepatitis Day [WHO]
+DTSTART;VALUE=DATE:20220728 
+DTEND;VALUE=DATE:20220729
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:International Day of Friendship (A/RES/65/275)
+DESCRIPTION:International Day of Friendship (A/RES/65/275) Click: http://undocs.org/en/A/RES/65/275
+URL:http://undocs.org/en/A/RES/65/275
+DTSTART;VALUE=DATE:20220730 
+DTEND;VALUE=DATE:20220731
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:World Day against Trafficking in Persons (A/RES/68/192)
+DESCRIPTION:World Day against Trafficking in Persons (A/RES/68/192) Click: http://undocs.org/en/A/RES/68/192
+URL:http://undocs.org/en/A/RES/68/192
+DTSTART;VALUE=DATE:20220730 
+DTEND;VALUE=DATE:20220731
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:World Breastfeeding Week, 1-7 August [WHO]
+DESCRIPTION:World Breastfeeding Week, 1-7 August [WHO] Click: http://undocs.org/en/World Breastfeeding Week, 1-7 August [WHO]
+URL:http://undocs.org/en/World Breastfeeding Week, 1-7 August [WHO]
+DTSTART;VALUE=DATE:20220801 
+DTEND;VALUE=DATE:20220802
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:International Day of the World's Indigenous Peoples (A/RES/49/214)
+DESCRIPTION:International Day of the World's Indigenous Peoples (A/RES/49/214) Click: http://undocs.org/en/A/RES/49/214
+URL:http://undocs.org/en/A/RES/49/214
+DTSTART;VALUE=DATE:20220809 
+DTEND;VALUE=DATE:20220810
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:International Youth Day (A/RES/54/120)
+DESCRIPTION:International Youth Day (A/RES/54/120) Click: http://undocs.org/en/A/RES/54/120
+URL:http://undocs.org/en/A/RES/54/120
+DTSTART;VALUE=DATE:20220812 
+DTEND;VALUE=DATE:20220813
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:World Humanitarian Day (A/RES/63/139)
+DESCRIPTION:World Humanitarian Day (A/RES/63/139) Click: http://undocs.org/en/A/RES/63/139
+URL:http://undocs.org/en/A/RES/63/139
+DTSTART;VALUE=DATE:20220819 
+DTEND;VALUE=DATE:20220820
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:International Day of Remembrance and Tribute to the Victims of Terrorism (A/RES/72/165)
+DESCRIPTION:International Day of Remembrance and Tribute to the Victims of Terrorism (A/RES/72/165) Click: http://undocs.org/en/A/RES/72/165
+URL:http://undocs.org/en/A/RES/72/165
+DTSTART;VALUE=DATE:20220821 
+DTEND;VALUE=DATE:20220822
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:International Day Commemorating the Victims of Acts of Violence Based on Religion or Belief (A/RES/73/296)
+DESCRIPTION:International Day Commemorating the Victims of Acts of Violence Based on Religion or Belief (A/RES/73/296) Click: http://undocs.org/en/A/RES/73/296
+URL:http://undocs.org/en/A/RES/73/296
+DTSTART;VALUE=DATE:20220822 
+DTEND;VALUE=DATE:20220823
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:International Day for the Remembrance of the Slave Trade and Its Abolition (UNESCO 29 C/Resolution 40))
+DESCRIPTION:International Day for the Remembrance of the Slave Trade and Its Abolition (UNESCO 29 C/Resolution 40)) Click: http://undocs.org/en/UNESCO 29 C/Resolution 40
+URL:http://undocs.org/en/UNESCO 29 C/Resolution 40
+DTSTART;VALUE=DATE:20220823 
+DTEND;VALUE=DATE:20220824
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:International Day against Nuclear Tests (A/RES/64/35)
+DESCRIPTION:International Day against Nuclear Tests (A/RES/64/35) Click: http://undocs.org/en/A/RES/64/35
+URL:http://undocs.org/en/A/RES/64/35
+DTSTART;VALUE=DATE:20220829 
+DTEND;VALUE=DATE:20220830
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:International Day of the Victims of Enforced Disappearances (A/RES/65/209)
+DESCRIPTION:International Day of the Victims of Enforced Disappearances (A/RES/65/209) Click: http://undocs.org/en/A/RES/65/209
+URL:http://undocs.org/en/A/RES/65/209
+DTSTART;VALUE=DATE:20220830 
+DTEND;VALUE=DATE:20220831
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:International Day for People of African Descent (A/RES/75/170)
+DESCRIPTION:International Day for People of African Descent (A/RES/75/170) Click: http://undocs.org/en/A/RES/75/170
+URL:http://undocs.org/en/A/RES/75/170
+DTSTART;VALUE=DATE:20220831 
+DTEND;VALUE=DATE:20220832
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:International Day of Charity (A/RES/67/105)
+DESCRIPTION:International Day of Charity (A/RES/67/105) Click: http://undocs.org/en/A/RES/67/105
+URL:http://undocs.org/en/A/RES/67/105
+DTSTART;VALUE=DATE:20220905 
+DTEND;VALUE=DATE:20220906
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:International Day of Clean Air for Blue Skies (A/RES/74/212)
+DESCRIPTION:International Day of Clean Air for Blue Skies (A/RES/74/212) Click: http://undocs.org/en/A/RES/74/212
+URL:http://undocs.org/en/A/RES/74/212
+DTSTART;VALUE=DATE:20220907 
+DTEND;VALUE=DATE:20220908
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:International Literacy Day [UNESCO] (UNESCO 14 C/Resolution 1.441)
+DESCRIPTION:International Literacy Day [UNESCO] (UNESCO 14 C/Resolution 1.441) Click: http://undocs.org/en/UNESCO 14 C/Resolution 1.441
+URL:http://undocs.org/en/UNESCO 14 C/Resolution 1.441
+DTSTART;VALUE=DATE:20220908 
+DTEND;VALUE=DATE:20220909
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:International Day to Protect Education from Attack (A/RES/74/275)
+DESCRIPTION:International Day to Protect Education from Attack (A/RES/74/275) Click: http://undocs.org/en/A/RES/74/275
+URL:http://undocs.org/en/A/RES/74/275
+DTSTART;VALUE=DATE:20220909 
+DTEND;VALUE=DATE:20220910
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:United Nations Day for South-South Cooperation (A/RES/58/220)
+DESCRIPTION:United Nations Day for South-South Cooperation (A/RES/58/220) Click: http://undocs.org/en/A/RES/58/220
+URL:http://undocs.org/en/A/RES/58/220
+DTSTART;VALUE=DATE:20220912 
+DTEND;VALUE=DATE:20220913
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:International Day of Democracy (A/RES/62/7)
+DESCRIPTION:International Day of Democracy (A/RES/62/7) Click: http://undocs.org/en/A/RES/62/7
+URL:http://undocs.org/en/A/RES/62/7
+DTSTART;VALUE=DATE:20220915 
+DTEND;VALUE=DATE:20220916
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:International Day for the Preservation of the Ozone Layer (A/RES/49/114)
+DESCRIPTION:International Day for the Preservation of the Ozone Layer (A/RES/49/114) Click: http://undocs.org/en/A/RES/49/114
+URL:http://undocs.org/en/A/RES/49/114
+DTSTART;VALUE=DATE:20220916 
+DTEND;VALUE=DATE:20220917
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:World Patient Safety Day [WHO]
+DESCRIPTION:World Patient Safety Day [WHO] Click: http://undocs.org/en/World Patient Safety Day [WHO]
+URL:http://undocs.org/en/World Patient Safety Day [WHO]
+DTSTART;VALUE=DATE:20220917 
+DTEND;VALUE=DATE:20220918
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:International Equal Pay Day (A/RES/74/142)
+DESCRIPTION:International Equal Pay Day (A/RES/74/142) Click: http://undocs.org/en/A/RES/74/142
+URL:http://undocs.org/en/A/RES/74/142
+DTSTART;VALUE=DATE:20220918 
+DTEND;VALUE=DATE:20220919
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:International Day of Peace (A/RES/36/67 & )
+DESCRIPTION:International Day of Peace (A/RES/36/67 & ) Click: http://undocs.org/en/A/RES/36/67 & 
+URL:http://undocs.org/en/A/RES/36/67 & 
+DTSTART;VALUE=DATE:20220921 
+DTEND;VALUE=DATE:20220922
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:International Day of Sign Languages (A/RES/72/161)
+DESCRIPTION:International Day of Sign Languages (A/RES/72/161) Click: http://undocs.org/en/A/RES/72/161
+URL:http://undocs.org/en/A/RES/72/161
+DTSTART;VALUE=DATE:20220923 
+DTEND;VALUE=DATE:20220924
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:International Day for the Total Elimination of Nuclear Weapons (A/RES/68/32)
+DESCRIPTION:International Day for the Total Elimination of Nuclear Weapons (A/RES/68/32) Click: http://undocs.org/en/A/RES/68/32
+URL:http://undocs.org/en/A/RES/68/32
+DTSTART;VALUE=DATE:20220926 
+DTEND;VALUE=DATE:20220927
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:World Tourism Day
+DESCRIPTION:World Tourism Day Click: http://undocs.org/en/World Tourism Day
+URL:http://undocs.org/en/World Tourism Day
+DTSTART;VALUE=DATE:20220927 
+DTEND;VALUE=DATE:20220928
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:International Day for Universal Access to Information (A/RES/74/5)
+DESCRIPTION:International Day for Universal Access to Information (A/RES/74/5) Click: http://undocs.org/en/A/RES/74/5
+URL:http://undocs.org/en/A/RES/74/5
+DTSTART;VALUE=DATE:20220928 
+DTEND;VALUE=DATE:20220929
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:International Day of Awareness of Food Loss and Waste (A/RES/74/209)
+DESCRIPTION:International Day of Awareness of Food Loss and Waste (A/RES/74/209) Click: http://undocs.org/en/A/RES/74/209
+URL:http://undocs.org/en/A/RES/74/209
+DTSTART;VALUE=DATE:20220929 
+DTEND;VALUE=DATE:20220930
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:World Maritime Day (IMCO/C XXXVIII/21)
+DESCRIPTION:World Maritime Day (IMCO/C XXXVIII/21) Click: http://undocs.org/en/IMCO/C XXXVIII/21
+URL:http://undocs.org/en/IMCO/C XXXVIII/21
+DTSTART;VALUE=DATE:20220930 
+DTEND;VALUE=DATE:20220931
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:International Translation Day (A/RES/71/288)
+DESCRIPTION:International Translation Day (A/RES/71/288) Click: http://undocs.org/en/A/RES/71/288
+URL:http://undocs.org/en/A/RES/71/288
+DTSTART;VALUE=DATE:20220930 
+DTEND;VALUE=DATE:20220931
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:International Day of Older Persons (A/RES/45/106)
+DESCRIPTION:International Day of Older Persons (A/RES/45/106) Click: http://undocs.org/en/A/RES/45/106
+URL:http://undocs.org/en/A/RES/45/106
+DTSTART;VALUE=DATE:20221001 
+DTEND;VALUE=DATE:20221002
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:World Statistics Day (A/RES/69/282)
+DESCRIPTION:World Statistics Day (A/RES/69/282) Click: http://undocs.org/en/A/RES/69/282
+URL:http://undocs.org/en/A/RES/69/282
+DTSTART;VALUE=DATE:20221002 
+DTEND;VALUE=DATE:20221003
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:International Day of Non-Violence (A/RES/61/271)
+DESCRIPTION:International Day of Non-Violence (A/RES/61/271) Click: http://undocs.org/en/A/RES/61/271
+URL:http://undocs.org/en/A/RES/61/271
+DTSTART;VALUE=DATE:20221002 
+DTEND;VALUE=DATE:20221003
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:World Habitat Day (A/RES/40/202 A)
+DESCRIPTION:World Habitat Day (A/RES/40/202 A) Click: http://undocs.org/en/A/RES/40/202 A
+URL:http://undocs.org/en/A/RES/40/202 A
+DTSTART;VALUE=DATE:20221004 
+DTEND;VALUE=DATE:20221005
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:World Space Week, 4-10 October (A/RES/54/68)
+DESCRIPTION:World Space Week, 4-10 October (A/RES/54/68) Click: http://undocs.org/en/A/RES/54/68
+URL:http://undocs.org/en/A/RES/54/68
+DTSTART;VALUE=DATE:20221004 
+DTEND;VALUE=DATE:20221005
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:World Teachers’ Day (UNESCO 27 C/INF.7))
+DESCRIPTION:World Teachers’ Day (UNESCO 27 C/INF.7)) Click: http://undocs.org/en/UNESCO 27 C/INF.7
+URL:http://undocs.org/en/UNESCO 27 C/INF.7
+DTSTART;VALUE=DATE:20221005 
+DTEND;VALUE=DATE:20221006
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:World Cotton Day (A/RES/75/318)
+DESCRIPTION:World Cotton Day (A/RES/75/318) Click: http://undocs.org/en/A/RES/75/318
+URL:http://undocs.org/en/A/RES/75/318
+DTSTART;VALUE=DATE:20221007 
+DTEND;VALUE=DATE:20221008
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:World Migratory Bird Day
+DESCRIPTION:World Migratory Bird Day Click: http://undocs.org/en/World Migratory Bird Day
+URL:http://undocs.org/en/World Migratory Bird Day
+DTSTART;VALUE=DATE:20221008 
+DTEND;VALUE=DATE:20221009
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:World Post Day (UPU/1969/Res.C.11)
+DESCRIPTION:World Post Day (UPU/1969/Res.C.11) Click: http://undocs.org/en/UPU/1969/Res.C.11
+URL:http://undocs.org/en/UPU/1969/Res.C.11
+DTSTART;VALUE=DATE:20221009 
+DTEND;VALUE=DATE:20221010
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:World Mental Health Day [WHO]
+DESCRIPTION:World Mental Health Day [WHO] Click: http://undocs.org/en/World Mental Health Day [WHO]
+URL:http://undocs.org/en/World Mental Health Day [WHO]
+DTSTART;VALUE=DATE:20221010 
+DTEND;VALUE=DATE:20221011
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:International Day of the Girl Child (A/RES/66/170)
+DESCRIPTION:International Day of the Girl Child (A/RES/66/170) Click: http://undocs.org/en/A/RES/66/170
+URL:http://undocs.org/en/A/RES/66/170
+DTSTART;VALUE=DATE:20221011 
+DTEND;VALUE=DATE:20221012
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:International Day for Disaster Risk Reduction (A/RES/64/200)
+DESCRIPTION:International Day for Disaster Risk Reduction (A/RES/64/200) Click: http://undocs.org/en/A/RES/64/200
+URL:http://undocs.org/en/A/RES/64/200
+DTSTART;VALUE=DATE:20221013 
+DTEND;VALUE=DATE:20221014
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:International Day of Rural Women (A/RES/62/136)
+DESCRIPTION:International Day of Rural Women (A/RES/62/136) Click: http://undocs.org/en/A/RES/62/136
+URL:http://undocs.org/en/A/RES/62/136
+DTSTART;VALUE=DATE:20221015 
+DTEND;VALUE=DATE:20221016
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:World Food Day (A/RES/35/70)
+DESCRIPTION:World Food Day (A/RES/35/70) Click: http://undocs.org/en/A/RES/35/70
+URL:http://undocs.org/en/A/RES/35/70
+DTSTART;VALUE=DATE:20221016 
+DTEND;VALUE=DATE:20221017
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:International Day for the Eradication of Poverty (A/RES/47/196)
+DESCRIPTION:International Day for the Eradication of Poverty (A/RES/47/196) Click: http://undocs.org/en/A/RES/47/196
+URL:http://undocs.org/en/A/RES/47/196
+DTSTART;VALUE=DATE:20221017 
+DTEND;VALUE=DATE:20221018
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:Global Media and Information Literacy Week, 24-31 October (A/RES/75/267)
+DESCRIPTION:Global Media and Information Literacy Week, 24-31 October (A/RES/75/267) Click: http://undocs.org/en/A/RES/75/267
+URL:http://undocs.org/en/A/RES/75/267
+DTSTART;VALUE=DATE:20221024 
+DTEND;VALUE=DATE:20221025
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:United Nations Day (A/RES/168 (II))
+DESCRIPTION:United Nations Day (A/RES/168 (II)) Click: http://undocs.org/en/A/RES/168 
+URL:http://undocs.org/en/A/RES/168 
+DTSTART;VALUE=DATE:20221024 
+DTEND;VALUE=DATE:20221025
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:World Development Information Day (A/RES/3038 (XXVII))
+DESCRIPTION:World Development Information Day (A/RES/3038 (XXVII)) Click: http://undocs.org/en/A/RES/3038 
+URL:http://undocs.org/en/A/RES/3038 
+DTSTART;VALUE=DATE:20221024 
+DTEND;VALUE=DATE:20221025
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:Disarmament Week, 24-30 October (A/RES/S-10/2 (p. 102))
+DESCRIPTION:Disarmament Week, 24-30 October (A/RES/S-10/2 (p. 102)) Click: http://undocs.org/en/A/RES/S-10/2 
+URL:http://undocs.org/en/A/RES/S-10/2 
+DTSTART;VALUE=DATE:20221024 
+DTEND;VALUE=DATE:20221025
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:World Day for Audiovisual Heritage [UNESCO] (UNESCO 33/C/Resolution 5)
+DESCRIPTION:World Day for Audiovisual Heritage [UNESCO] (UNESCO 33/C/Resolution 5) Click: http://undocs.org/en/UNESCO 33/C/Resolution 5
+URL:http://undocs.org/en/UNESCO 33/C/Resolution 5
+DTSTART;VALUE=DATE:20221027 
+DTEND;VALUE=DATE:20221028
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:World Cities Day (A/RES/68/239)
+DESCRIPTION:World Cities Day (A/RES/68/239) Click: http://undocs.org/en/A/RES/68/239
+URL:http://undocs.org/en/A/RES/68/239
+DTSTART;VALUE=DATE:20221031 
+DTEND;VALUE=DATE:20221032
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:International Day to End Impunity for Crimes against Journalists (A/RES/68/163)
+DESCRIPTION:International Day to End Impunity for Crimes against Journalists (A/RES/68/163) Click: http://undocs.org/en/A/RES/68/163
+URL:http://undocs.org/en/A/RES/68/163
+DTSTART;VALUE=DATE:20221102 
+DTEND;VALUE=DATE:20221103
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:World Tsunami Awareness Day (A/RES/70/203)
+DESCRIPTION:World Tsunami Awareness Day (A/RES/70/203) Click: http://undocs.org/en/A/RES/70/203
+URL:http://undocs.org/en/A/RES/70/203
+DTSTART;VALUE=DATE:20221105 
+DTEND;VALUE=DATE:20221106
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:International Day for Preventing the Exploitation of the Environment in War and Armed Conflict (A/RES/56/4)
+DESCRIPTION:International Day for Preventing the Exploitation of the Environment in War and Armed Conflict (A/RES/56/4) Click: http://undocs.org/en/A/RES/56/4
+URL:http://undocs.org/en/A/RES/56/4
+DTSTART;VALUE=DATE:20221106 
+DTEND;VALUE=DATE:20221107
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:International Week of Science and Peace, 9-15 November (A/RES/43/61)
+DESCRIPTION:International Week of Science and Peace, 9-15 November (A/RES/43/61) Click: http://undocs.org/en/A/RES/43/61
+URL:http://undocs.org/en/A/RES/43/61
+DTSTART;VALUE=DATE:20221109 
+DTEND;VALUE=DATE:20221110
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:World Science Day for Peace and Development (UNESCO 31 C/Resolution 20)
+DESCRIPTION:World Science Day for Peace and Development (UNESCO 31 C/Resolution 20) Click: http://undocs.org/en/UNESCO 31 C/Resolution 20
+URL:http://undocs.org/en/UNESCO 31 C/Resolution 20
+DTSTART;VALUE=DATE:20221110 
+DTEND;VALUE=DATE:20221111
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:World Antibiotic Awareness Week, 13-19 November [WHO]
+DESCRIPTION:World Antibiotic Awareness Week, 13-19 November [WHO] Click: http://undocs.org/en/World Antibiotic Awareness Week, 13-19 November [WHO]
+URL:http://undocs.org/en/World Antibiotic Awareness Week, 13-19 November [WHO]
+DTSTART;VALUE=DATE:20221113 
+DTEND;VALUE=DATE:20221114
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:World Diabetes Day (A/RES/61/225)
+DESCRIPTION:World Diabetes Day (A/RES/61/225) Click: http://undocs.org/en/A/RES/61/225
+URL:http://undocs.org/en/A/RES/61/225
+DTSTART;VALUE=DATE:20221114 
+DTEND;VALUE=DATE:20221115
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:International Day for Tolerance [UNESCO] (UNESCO 28 C/Resolution 5.61)
+DESCRIPTION:International Day for Tolerance [UNESCO] (UNESCO 28 C/Resolution 5.61) Click: http://undocs.org/en/UNESCO 28 C/Resolution 5.61
+URL:http://undocs.org/en/UNESCO 28 C/Resolution 5.61
+DTSTART;VALUE=DATE:20221116 
+DTEND;VALUE=DATE:20221117
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:World Philosophy Day [UNESCO] (UNESCO 33 C/Resolution 37)
+DESCRIPTION:World Philosophy Day [UNESCO] (UNESCO 33 C/Resolution 37) Click: http://undocs.org/en/UNESCO 33 C/Resolution 37
+URL:http://undocs.org/en/UNESCO 33 C/Resolution 37
+DTSTART;VALUE=DATE:20221118 
+DTEND;VALUE=DATE:20221119
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:World Toilet Day (A/RES/67/291)
+DESCRIPTION:World Toilet Day (A/RES/67/291) Click: http://undocs.org/en/A/RES/67/291
+URL:http://undocs.org/en/A/RES/67/291
+DTSTART;VALUE=DATE:20221119 
+DTEND;VALUE=DATE:20221120
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:Africa Industrialization Day (A/RES/44/237)
+DESCRIPTION:Africa Industrialization Day (A/RES/44/237) Click: http://undocs.org/en/A/RES/44/237
+URL:http://undocs.org/en/A/RES/44/237
+DTSTART;VALUE=DATE:20221120 
+DTEND;VALUE=DATE:20221121
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:World Children's Day (A/RES/836(IX))
+DESCRIPTION:World Children's Day (A/RES/836(IX)) Click: http://undocs.org/en/A/RES/836
+URL:http://undocs.org/en/A/RES/836
+DTSTART;VALUE=DATE:20221120 
+DTEND;VALUE=DATE:20221121
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:World Day of Remembrance for Road Traffic Victims (A/RES/60/5)
+DESCRIPTION:World Day of Remembrance for Road Traffic Victims (A/RES/60/5) Click: http://undocs.org/en/A/RES/60/5
+URL:http://undocs.org/en/A/RES/60/5
+DTSTART;VALUE=DATE:20221121 
+DTEND;VALUE=DATE:20221122
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:World Television Day (A/RES/51/205)
+DESCRIPTION:World Television Day (A/RES/51/205) Click: http://undocs.org/en/A/RES/51/205
+URL:http://undocs.org/en/A/RES/51/205
+DTSTART;VALUE=DATE:20221121 
+DTEND;VALUE=DATE:20221122
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:International Day for the Elimination of Violence against Women (A/RES/54/134)
+DESCRIPTION:International Day for the Elimination of Violence against Women (A/RES/54/134) Click: http://undocs.org/en/A/RES/54/134
+URL:http://undocs.org/en/A/RES/54/134
+DTSTART;VALUE=DATE:20221125 
+DTEND;VALUE=DATE:20221126
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:International Day of Solidarity with the Palestinian People (A/RES/32/40B)
+DESCRIPTION:International Day of Solidarity with the Palestinian People (A/RES/32/40B) Click: http://undocs.org/en/A/RES/32/40B
+URL:http://undocs.org/en/A/RES/32/40B
+DTSTART;VALUE=DATE:20221129 
+DTEND;VALUE=DATE:20221130
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:Day of Remembrance for all Victims of Chemical Warfare (OPCW C-20/DEC.10)
+DESCRIPTION:Day of Remembrance for all Victims of Chemical Warfare (OPCW C-20/DEC.10) Click: http://undocs.org/en/OPCW C-20/DEC.10
+URL:http://undocs.org/en/OPCW C-20/DEC.10
+DTSTART;VALUE=DATE:20221130 
+DTEND;VALUE=DATE:20221131
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:World AIDS Day
+DESCRIPTION:World AIDS Day Click: http://undocs.org/en/World AIDS Day
+URL:http://undocs.org/en/World AIDS Day
+DTSTART;VALUE=DATE:20221201 
+DTEND;VALUE=DATE:20221202
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:International Day for the Abolition of Slavery (A/RES/317(IV))
+DESCRIPTION:International Day for the Abolition of Slavery (A/RES/317(IV)) Click: http://undocs.org/en/A/RES/317
+URL:http://undocs.org/en/A/RES/317
+DTSTART;VALUE=DATE:20221202 
+DTEND;VALUE=DATE:20221203
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:International Day of Persons with Disabilities (A/RES/47/3)
+DESCRIPTION:International Day of Persons with Disabilities (A/RES/47/3) Click: http://undocs.org/en/A/RES/47/3
+URL:http://undocs.org/en/A/RES/47/3
+DTSTART;VALUE=DATE:20221203 
+DTEND;VALUE=DATE:20221204
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:International Day of Banks (A/RES/74/245)
+DESCRIPTION:International Day of Banks (A/RES/74/245) Click: http://undocs.org/en/A/RES/74/245
+URL:http://undocs.org/en/A/RES/74/245
+DTSTART;VALUE=DATE:20221204 
+DTEND;VALUE=DATE:20221205
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:International Volunteer Day for Economic and Social Development (A/RES/40/212)
+DESCRIPTION:International Volunteer Day for Economic and Social Development (A/RES/40/212) Click: http://undocs.org/en/A/RES/40/212
+URL:http://undocs.org/en/A/RES/40/212
+DTSTART;VALUE=DATE:20221205 
+DTEND;VALUE=DATE:20221206
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:World Soil Day (A/RES/68/232)
+DESCRIPTION:World Soil Day (A/RES/68/232) Click: http://undocs.org/en/A/RES/68/232
+URL:http://undocs.org/en/A/RES/68/232
+DTSTART;VALUE=DATE:20221205 
+DTEND;VALUE=DATE:20221206
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:International Civil Aviation Day (A/RES/51/33)
+DESCRIPTION:International Civil Aviation Day (A/RES/51/33) Click: http://undocs.org/en/A/RES/51/33
+URL:http://undocs.org/en/A/RES/51/33
+DTSTART;VALUE=DATE:20221207 
+DTEND;VALUE=DATE:20221208
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:International Day of Commemoration and Dignity of the Victims of the Crime of Genocide and of the Prevention of this Crime (A/RES/69/323)
+DESCRIPTION:International Day of Commemoration and Dignity of the Victims of the Crime of Genocide and of the Prevention of this Crime (A/RES/69/323) Click: http://undocs.org/en/A/RES/69/323
+URL:http://undocs.org/en/A/RES/69/323
+DTSTART;VALUE=DATE:20221209 
+DTEND;VALUE=DATE:20221210
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:International Anti-Corruption Day (A/RES/58/4)
+DESCRIPTION:International Anti-Corruption Day (A/RES/58/4) Click: http://undocs.org/en/A/RES/58/4
+URL:http://undocs.org/en/A/RES/58/4
+DTSTART;VALUE=DATE:20221209 
+DTEND;VALUE=DATE:20221210
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:Human Rights Day (A/RES/423 (V))
+DESCRIPTION:Human Rights Day (A/RES/423 (V)) Click: http://undocs.org/en/A/RES/423 
+URL:http://undocs.org/en/A/RES/423 
+DTSTART;VALUE=DATE:20221210 
+DTEND;VALUE=DATE:20221211
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:International Mountain Day (A/RES/57/245)
+DESCRIPTION:International Mountain Day (A/RES/57/245) Click: http://undocs.org/en/A/RES/57/245
+URL:http://undocs.org/en/A/RES/57/245
+DTSTART;VALUE=DATE:20221211 
+DTEND;VALUE=DATE:20221212
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:International Day of Neutrality (A/RES/71/275)
+DESCRIPTION:International Day of Neutrality (A/RES/71/275) Click: http://undocs.org/en/A/RES/71/275
+URL:http://undocs.org/en/A/RES/71/275
+DTSTART;VALUE=DATE:20221212 
+DTEND;VALUE=DATE:20221213
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:International Universal Health Coverage Day (A/RES/72/138)
+DESCRIPTION:International Universal Health Coverage Day (A/RES/72/138) Click: http://undocs.org/en/A/RES/72/138
+URL:http://undocs.org/en/A/RES/72/138
+DTSTART;VALUE=DATE:20221212 
+DTEND;VALUE=DATE:20221213
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:International Migrants Day (A/RES/55/93)
+DESCRIPTION:International Migrants Day (A/RES/55/93) Click: http://undocs.org/en/A/RES/55/93
+URL:http://undocs.org/en/A/RES/55/93
+DTSTART;VALUE=DATE:20221218 
+DTEND;VALUE=DATE:20221219
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:Arabic Language Day
+DESCRIPTION:Arabic Language Day Click: http://undocs.org/en/Arabic Language Day
+URL:http://undocs.org/en/Arabic Language Day
+DTSTART;VALUE=DATE:20221218 
+DTEND;VALUE=DATE:20221219
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:International Human Solidarity Day (A/RES/60/209)
+DESCRIPTION:International Human Solidarity Day (A/RES/60/209) Click: http://undocs.org/en/A/RES/60/209
+URL:http://undocs.org/en/A/RES/60/209
+DTSTART;VALUE=DATE:20221220 
+DTEND;VALUE=DATE:20221221
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:International Day of Epidemic Preparedness (A/RES/75/27)
+DESCRIPTION:International Day of Epidemic Preparedness (A/RES/75/27) Click: http://undocs.org/en/A/RES/75/27
+URL:http://undocs.org/en/A/RES/75/27
+DTSTART;VALUE=DATE:20221227 
+DTEND;VALUE=DATE:20221228
+TRANSP:TRANSPARENT
+END:VEVENT
+
+END:VCALENDAR
